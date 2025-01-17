@@ -1553,3 +1553,16 @@
 * [The Restart Page](http://www.therestartpage.com/) - Vintage Operating System Reboots
 * [Windows XP Error Worm](https://ybenbihi.github.io/windows-error-worm/) - Click & Drag Windows Errors
 * [HackTyper](https://hackertyper.net/), [HackerTyper](https://hackertyper.com/), [Hoacks](https://hoacks.com/) or [Geektyper](https://geektyper.com/) - Fake Hacking Screen
+* 
+* ## ▷ Free Spotify alternatives (Websites only no downloading included)
+* https://www.spotifree.app
+* https://spotube.netlify.app/home
+* https://streamsquid.com/#/browse/newrel
+*https://soundify.me
+ 
+  
+ 
+
+  
+* 
+* 
